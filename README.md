@@ -1,4 +1,4 @@
-# Causal Management
+### Causal Management Architecture
 Causality identification and detection framework
 
 ############## The package contains the source code of the following two language models, which are the machine learning and dee learning BERT algorithm: 
@@ -22,7 +22,6 @@ To run the scripts in this, following tools, datasets downloaded from kaggle nee
 #5 Install the tool CRF language suite at http://www.chokkan.org/software/crfsuite/installs
 
 #6 Import the coreNLP file in the frameworks folder to call the coreNLP framework from the folder named framework which housed all the downloaded external frameworks used on this project
-
 
 #Average run time - 40 to 160 minutes depending on computing resources, specifically, a GPU-based processor is recommended
 
