@@ -1,6 +1,10 @@
 ### Causal Management Architecture
 Causality identification and detection framework
 
+###### Thesis Note
+
+System behavior is often expressed by causal relations in requirements (e.g. if event 1 exist, then event 2 exist ). Automatically extracting this embedded causal knowledge supports not only reasoning about requirements dependencies, but also various automated engineering tasks such as seamless derivation of test cases. However, causality extraction from natural language (NL) is still an open research challenge as existing approaches fail to extract causality with reasonable performance. We understand causality extraction from requirements as a two step problem: First, we need to detect if requirements have causal properties or not, and then we need to understand and extract their causal relations.
+
 ############## The package contains the source code of the following two language models, which are the machine learning and dee learning BERT algorithm: 
 - Evaluating the performance of the five machine learning algorithms explored in the study. 
 - Simulate the impact of the dataset and annotation guidelines on the model performance during categorizion of causal categories
