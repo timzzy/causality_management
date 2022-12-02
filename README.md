@@ -1,5 +1,5 @@
 # Causal Management
-Conflict identification and resolution framework
+Causality identification and detection framework
 
 ############## The package contains the source code of the following two language models, which are the machine learning and dee learning BERT algorithm: 
 - Evaluating the performance of the five machine learning algorithms explored in the study. 
