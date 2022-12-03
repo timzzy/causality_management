@@ -27,7 +27,7 @@ To run the scripts in this, following tools, datasets downloaded from kaggle nee
 
 #6 Import the coreNLP file in the frameworks folder to call the coreNLP framework from the folder named framework which housed all the downloaded external frameworks used on this project
 
-# The dataset for each of the 50 domains are merged and procesed into a single file (dataframe), before they are categorized into their different causality category
+#7 The dataset for each of the 50 domains are merged and procesed into a single file (dataframe), before they are categorized into their different causality category
 #Average run time - 40 to 160 minutes depending on computing resources, specifically, a GPU-based processor is recommended
 
 #About 21 (twenty one) python modules specified in the notebooks needs to be installed on the host machine to run the full implementation
